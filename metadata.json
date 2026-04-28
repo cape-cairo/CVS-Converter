@@ -1,0 +1,6 @@
+{
+  "name": "Excel to CSV Converter (Bank & BCCEI)",
+  "description": "Convert Excel spreadsheets to specific bank payment formats (FNB, Bidvest, etc.) and BCCEI submission formats with custom mapping.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
